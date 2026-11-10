@@ -108,3 +108,21 @@ After running the app, capture screenshots of the Home, Resume Analysis, Career 
 ## License
 
 Choose a license before making the repository public. For a personal portfolio project, the MIT License is a common permissive option; only add it if you are comfortable allowing reuse under its terms.
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/home.png)
+
+### 📄 Resume Analysis
+![Resume Analysis](screenshots/resume-analysis.png)
+
+### 🧭 Career Explorer
+![Career Explorer](screenshots/career-explorer.png)
+
+### 🎤 Interview Preparation
+![Interview Preparation](screenshots/interview-preparation.png)
+
+### 📚 Learning Hub
+![Learning Hub](screenshots/learning-hub.png)
